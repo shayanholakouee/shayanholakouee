@@ -1,6 +1,6 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shayanholakouee&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shayanholakouee&layout=compact&theme=midnight-purple)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shayanholakouee&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shayanholakouee&show_icons=true&theme=midnight-purple)
 
 
 
