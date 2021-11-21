@@ -1,5 +1,6 @@
 ### Proud Rubyist &nbsp; <a href="https://www.ruby-lang.org" emoji-code="Ruby"><img class="emojidex-emoji" src="https://cdn.emojidex.com/emoji/seal/Ruby.png" emoji-code="Ruby" alt="Ruby" width="20" height="20" /></a>
-## And Elixir Advocate![elixir](https://user-images.githubusercontent.com/55746476/142762651-f67bddd6-6dfe-4710-a68b-a3b1f9be94b3.png)
+## And Elixir Advocate![elixir_lang_logo_icon_169207](https://user-images.githubusercontent.com/55746476/142762713-4dd5c4c2-48ac-4280-b068-52df3fbd3a4f.png)
+
 
 <!--
 **shayanholakouee/shayanholakouee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
