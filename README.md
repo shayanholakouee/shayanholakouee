@@ -1,4 +1,4 @@
-### Proud Rubist <a href="https://www.ruby-lang.org" emoji-code="Ruby"><img class="emojidex-emoji" src="https://cdn.emojidex.com/emoji/seal/Ruby.png" emoji-code="Ruby" alt="Ruby" width="128" height="128" /></a>
+### Proud Rubist <a href="https://www.ruby-lang.org" emoji-code="Ruby"><img class="emojidex-emoji" src="https://cdn.emojidex.com/emoji/seal/Ruby.png" emoji-code="Ruby" alt="Ruby" width="60" height="60" /></a>
 <!--
 **shayanholakouee/shayanholakouee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
