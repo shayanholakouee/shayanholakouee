@@ -1,5 +1,5 @@
-### Hi there 👋
-### gretting
+### Hello Fellas 👋
+### Proud Rubist <a href="https://www.ruby-lang.org" emoji-code="Ruby"><img class="emojidex-emoji" src="https://cdn.emojidex.com/emoji/seal/Ruby.png" emoji-code="Ruby" alt="Ruby" /></a>
 <!--
 **shayanholakouee/shayanholakouee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
