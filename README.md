@@ -5,7 +5,7 @@
 
 ![file_type_ruby_icon_130186](https://user-images.githubusercontent.com/55746476/143846955-9aa72000-d978-4069-8b09-3fd082689e58.png)
 ![rails_plain_wordmark_logo_icon_146377 (1)](https://user-images.githubusercontent.com/55746476/143848236-832cff46-acc1-4434-9932-abfda94db1d0.png)
-![elixir_lang_logo_icon_169207 (1)](https://user-images.githubusercontent.com/55746476/143846330-738507ef-ecb0-4135-aa89-632c3dc787e7.png)
+![elixir_lang_logo_icon_169207 (2)](https://user-images.githubusercontent.com/55746476/143887643-cf703acf-cd1a-45cb-8274-2439d75ce3d5.png)
 ![4375041_framework_logo_phoenix_icon (1)](https://user-images.githubusercontent.com/55746476/143848765-512a1201-4b04-4edd-8e53-09610619c97b.png)
 ![golang_gopher_src_logo_icon_168154 (1)](https://user-images.githubusercontent.com/55746476/143887348-c39a962b-40a1-4299-a77d-d5b0780cd608.png)
 ![file_type_graphql_icon_130564](https://user-images.githubusercontent.com/55746476/143850721-015d79e5-e64a-4055-8ac7-2f13df140114.png)
