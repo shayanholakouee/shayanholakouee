@@ -8,7 +8,7 @@
 ![elixir_lang_logo_icon_169207 (1)](https://user-images.githubusercontent.com/55746476/143846330-738507ef-ecb0-4135-aa89-632c3dc787e7.png)
 ![4375041_framework_logo_phoenix_icon (1)](https://user-images.githubusercontent.com/55746476/143848765-512a1201-4b04-4edd-8e53-09610619c97b.png)
 ![file_type_graphql_icon_130564](https://user-images.githubusercontent.com/55746476/143850721-015d79e5-e64a-4055-8ac7-2f13df140114.png)
-![file_type_vue_icon_130078](https://user-images.githubusercontent.com/55746476/143847153-c67eeff3-3f93-4037-89bf-45a84927a3b5.png)
+![file_type_vue_icon_130078 (1)](https://user-images.githubusercontent.com/55746476/143851007-1aa8024c-6ffc-4037-bac1-400e1c58c390.png)
 ![emberjs_logo_icon_169204 (1)](https://user-images.githubusercontent.com/55746476/143847799-44dd7062-111d-4511-87e0-0920646954f3.png)
 
 
