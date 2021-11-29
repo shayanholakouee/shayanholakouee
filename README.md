@@ -7,8 +7,7 @@
 ![rails_plain_wordmark_logo_icon_146377](https://user-images.githubusercontent.com/55746476/143847606-8467eb0c-d0de-45cf-a97e-9566b86062af.png)
 ![elixir_lang_logo_icon_169207 (1)](https://user-images.githubusercontent.com/55746476/143846330-738507ef-ecb0-4135-aa89-632c3dc787e7.png)
 ![file_type_vue_icon_130078](https://user-images.githubusercontent.com/55746476/143847153-c67eeff3-3f93-4037-89bf-45a84927a3b5.png)
-![emberjs_logo_icon_169204](https://user-images.githubusercontent.com/55746476/143847618-2929e4b8-6586-4c66-b789-713f72701629.png)
-
+![emberjs_logo_icon_169204 (1)](https://user-images.githubusercontent.com/55746476/143847799-44dd7062-111d-4511-87e0-0920646954f3.png)
 
 <!--
 **shayanholakouee/shayanholakouee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
