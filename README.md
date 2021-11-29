@@ -1,10 +1,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shayanholakouee&layout=compact&theme=ocean_dark)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shayanholakouee&show_icons=true&theme=ocean_dark)
-![file_type_ruby_icon_130186](https://user-images.githubusercontent.com/55746476/143846955-9aa72000-d978-4069-8b09-3fd082689e58.png)
 
 
 ![elixir_lang_logo_icon_169207 (1)](https://user-images.githubusercontent.com/55746476/143846330-738507ef-ecb0-4135-aa89-632c3dc787e7.png)
+![file_type_ruby_icon_130186](https://user-images.githubusercontent.com/55746476/143846955-9aa72000-d978-4069-8b09-3fd082689e58.png)
 
 
 <!--
