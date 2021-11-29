@@ -9,6 +9,9 @@
 ![4375041_framework_logo_phoenix_icon (1)](https://user-images.githubusercontent.com/55746476/143848765-512a1201-4b04-4edd-8e53-09610619c97b.png)
 ![file_type_vue_icon_130078](https://user-images.githubusercontent.com/55746476/143847153-c67eeff3-3f93-4037-89bf-45a84927a3b5.png)
 ![emberjs_logo_icon_169204 (1)](https://user-images.githubusercontent.com/55746476/143847799-44dd7062-111d-4511-87e0-0920646954f3.png)
+![file_type_graphql_icon_130564](https://user-images.githubusercontent.com/55746476/143850721-015d79e5-e64a-4055-8ac7-2f13df140114.png)
+![react_original_logo_icon_146374](https://user-images.githubusercontent.com/55746476/143850738-362fa6b8-4de7-49bf-88ef-91b2c1baa738.png)
+
 
 <!--
 **shayanholakouee/shayanholakouee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
