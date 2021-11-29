@@ -2,7 +2,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shayanholakouee&show_icons=true&theme=ocean_dark)
 
-![elixir](https://user-images.githubusercontent.com/55746476/143846295-40efcc5c-af30-425d-b08b-6005448eae2f.png)
+
+![elixir_lang_logo_icon_169207 (1)](https://user-images.githubusercontent.com/55746476/143846330-738507ef-ecb0-4135-aa89-632c3dc787e7.png)
 
 
 <!--
